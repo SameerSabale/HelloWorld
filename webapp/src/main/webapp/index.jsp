@@ -1,1 +1,1 @@
- <h1> Welcome to webserver test </h1>
+ <h1> Welcome to maven project </h1>
